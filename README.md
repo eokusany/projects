@@ -1,2 +1,2 @@
-# projects
-personal projects
+# Data extraction model
+The Python script provided performs data processing and visualization tasks on aircraft incident data stored in an Excel file named 'mediumAircraftData.xlsx'. Initially, it categorizes specific animal species mentioned in the data into broader groups like birds, owls, and others, consolidating similar entities for analysis simplicity. Subsequently, it tallies the occurrences of each categorized animal and retains those with frequencies exceeding 10% of the maximum frequency. These filtered animal counts are then utilized to create a bar chart, visualizing the distribution of incidents across different animal categories.
